@@ -26,7 +26,7 @@ An interactive web application to manage students using CRUD operations.
    python app.py
 
 3. Open:
-   http://127.0.0.1:5000/
+   http://127.0.0.1:5000
 
 ## 📸 Screenshots
 (Add your project screenshots here)
